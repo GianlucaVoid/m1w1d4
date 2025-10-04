@@ -1,0 +1,46 @@
+html {
+    font-family: 'Amazon Ember', sans-serif;
+}
+
+body {
+    margin: 0px;
+}
+
+main {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.immagine-logo {
+    background-color: #222f3e;
+}
+
+.logo {
+    width: 100px;
+    margin-left: 20px;
+    margin-top: 8px;
+}
+
+.primo-paragrafo {
+    padding-left: 10px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+
+}
+
+.color-background-primo-paragrafo {
+    background-color: #354758;
+}
+
+.paragrafo-shop {
+    background-color: rgb(209, 94, 0);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+
+}
