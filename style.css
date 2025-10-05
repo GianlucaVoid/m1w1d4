@@ -11,6 +11,10 @@ main {
     margin-right: 30px;
 }
 
+.link-primario:visited {
+    color: white;
+}
+
 .immagine-logo {
     background-color: #222f3e;
 }
@@ -42,5 +46,123 @@ main {
     margin-top: 25px;
     margin-bottom: 25px;
     text-align: center;
+    font-size: 11px;
 
+}
+
+.guida-regali-vacanze {
+    width: 100%;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-image: url(assets/bg-image.png);
+    background-size: contain;
+
+}
+
+h4 {
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.sezione-5 {
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.shop-now {
+    padding-left: 13px;
+    font-size: 12px;
+}
+
+.immagini-sezione-5 {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.immagini-sezione-5 img {
+    display: inline-block;
+    width: 23.60%;
+    border-radius: 15px;
+    aspect-ratio: 3/4;
+    object-fit: cover;
+    text-align: center;
+}
+
+.tablet {
+    margin-right: 15px;
+}
+
+.computer {
+    margin-right: 15px;
+}
+
+.orologi {
+    margin-right: 15px;
+}
+
+.sezione-6 {
+    padding-top: 35px;
+    text-align: center;
+}
+
+.sezione-6 h4 {
+    margin-top: 0px;
+}
+
+.sezione-6 a {
+    color: rgb(1, 95, 102);
+}
+
+.immagine-sezione-6 {
+    width: 100%;
+
+}
+
+.sezione-7 {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+.sezione-7 h4 {
+    margin-top: 0px;
+}
+
+.sezione-7 a {
+    color: rgb(1, 95, 102);
+}
+
+.immagine-sezione-7 {
+    width: 100%
+}
+
+.paragrafo-finale a {
+    color: white;
+}
+
+.paragrafo-finale {
+    text-align: center;
+    background-color: #354758;
+    margin: 0px;
+    font-size: 9.5px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.paragrafo-finale:visited a {
+    color: rgb(255, 255, 255);
+}
+
+.logo2 {
+    text-align: center;
+    background-color: #222f3e;
+}
+
+.ultimo-logo {
+    width: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
